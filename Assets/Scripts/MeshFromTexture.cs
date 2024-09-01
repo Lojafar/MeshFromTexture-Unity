@@ -22,6 +22,7 @@ public class MeshFromTexture
             Debug.LogError("MeshScale is less than 0. Setted 0.1f");
             scale = 0.1f;
         }
+        scale = meshScale;
         currentTexture = texture;
         vertices.Clear();
         triangles.Clear();

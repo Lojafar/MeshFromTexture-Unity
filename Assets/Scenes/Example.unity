@@ -302,13 +302,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.12835984, y: 0.16917731, z: -0.022228193, w: 0.9769385}
-  m_LocalPosition: {x: -2.5, y: 3.19, z: -7.34}
+  m_LocalRotation: {x: 0.20658495, y: 0.23851912, z: -0.052005563, w: 0.94748443}
+  m_LocalPosition: {x: -0.29, y: 4.1, z: -4.71}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 14.97, y: 19.649, z: 0}
+  m_LocalEulerAnglesHint: {x: 24.6, y: 28.26, z: 0}
 --- !u!1 &1118714749
 GameObject:
   m_ObjectHideFlags: 0
@@ -342,6 +342,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textureeForMesh: {fileID: 2800000, guid: bddae971e9e8be744ac235a18cc036c9, type: 3}
+  meshScale: 0.2
 --- !u!65 &1118714751
 BoxCollider:
   m_ObjectHideFlags: 0
