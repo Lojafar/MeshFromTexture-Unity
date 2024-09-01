@@ -7,5 +7,7 @@ You can also set the scale for mesh generation (scale is only applied to the mes
 A standart unity shader will not work, as it does not display mesh.colors. You can write your own shader or use the material from the example 
 
 You must also set the picture import settings.  "Read/Write" set to true, "Filter mode" set to "Point (no filter)" and Format to "RGBA 32 bit". (See screenshot)
+
+
 ![2024-09-01_20-52-03](https://github.com/user-attachments/assets/36c547a0-bcb0-4b3c-8ca5-2b2d82e2bf68)
 
