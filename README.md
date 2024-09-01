@@ -1,7 +1,4 @@
-![2024-09-01_21-05-58](https://github.com/user-attachments/assets/335b395b-97e1-47fe-b2d4-5a9d08963e1a)
-
-
-![Sword](https://github.com/user-attachments/assets/cdf6c51a-7fd7-4678-9538-586180aa0021)
+![Swordi](https://github.com/user-attachments/assets/7f117ec3-8bf5-4bb9-a151-f641a13ae816)
 
 
 This project allows you to create a mesh from a texture. The mesh does not have a wall if there is a pixel next to it.
